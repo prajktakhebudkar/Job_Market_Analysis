@@ -1,62 +1,202 @@
 [
   {
-    "title": "Title not found",
+    "title": "Send me jobs like these",
     "company": "Company not found",
     "location": "Location not found",
-    "link": null
-  },
-  {
-    "title": "Data Analyst (Campus Hiring)",
-    "company": "",
-    "location": "Ahmedabad",
-    "link": "https://www.naukri.com/job-listings-data-analyst-campus-hiring-sp-capital-iq-india-pvt-ltd-ahmedabad-2-to-4-years-110425915080"
-  },
-  {
-    "title": "Data Analyst (Campus Hiring)",
-    "company": "Company not found",
-    "location": "Ahmedabad",
-    "link": "https://www.naukri.com/job-listings-data-analyst-campus-hiring-sp-capital-iq-india-pvt-ltd-ahmedabad-2-to-4-years-110425915080"
+    "experience": "Experience not found",
+    "salary": "Salary not found",
+    "description": "Description not found",
+    "link": null,
+    "posted_date": "Date not found"
   },
   {
     "title": "Data Analyst (Campus Hiring)",
     "company": "Company not found",
     "location": "Ahmedabad",
-    "link": "https://www.naukri.com/job-listings-data-analyst-campus-hiring-sp-capital-iq-india-pvt-ltd-ahmedabad-2-to-4-years-110425915080"
+    "experience": "2-4 Yrs",
+    "salary": "Not disclosed",
+    "description": "Description not found",
+    "link": "https://www.naukri.com/job-listings-data-analyst-campus-hiring-sp-capital-iq-india-pvt-ltd-ahmedabad-2-to-4-years-110425915080",
+    "posted_date": "Date not found"
+  },
+  {
+    "title": "Data Analyst (Campus Hiring)",
+    "company": "Company not found",
+    "location": "Ahmedabad",
+    "experience": "2-4 Yrs",
+    "salary": "Not disclosed",
+    "description": "Description not found",
+    "link": "https://www.naukri.com/job-listings-data-analyst-campus-hiring-sp-capital-iq-india-pvt-ltd-ahmedabad-2-to-4-years-110425915080",
+    "posted_date": "Date not found"
+  },
+  {
+    "title": "Data Analyst (Campus Hiring)",
+    "company": "Company not found",
+    "location": "Ahmedabad",
+    "experience": "2-4 Yrs",
+    "salary": "Not disclosed",
+    "description": "Description not found",
+    "link": "https://www.naukri.com/job-listings-data-analyst-campus-hiring-sp-capital-iq-india-pvt-ltd-ahmedabad-2-to-4-years-110425915080",
+    "posted_date": "Date not found"
   },
   {
     "title": "Title not found",
     "company": "Company not found",
     "location": "Ahmedabad",
-    "link": "Link not found"
+    "experience": "2-4 Yrs",
+    "salary": "Not disclosed",
+    "description": "Description not found",
+    "link": "Link not found",
+    "posted_date": "Date not found"
   },
   {
     "title": "Offshore Data Analyst",
     "company": "Company not found",
     "location": "Bengaluru",
-    "link": "https://www.naukri.com/job-listings-offshore-data-analyst-ntt-data-information-processing-services-private-l-imited-bengaluru-3-to-5-years-090425925134"
+    "experience": "3-5 Yrs",
+    "salary": "Not disclosed",
+    "description": "Description not found",
+    "link": "https://www.naukri.com/job-listings-offshore-data-analyst-ntt-data-information-processing-services-private-l-imited-bengaluru-3-to-5-years-090425925134",
+    "posted_date": "Date not found"
   },
   {
     "title": "Offshore Data Analyst",
     "company": "Company not found",
     "location": "Bengaluru",
-    "link": "https://www.naukri.com/job-listings-offshore-data-analyst-ntt-data-information-processing-services-private-l-imited-bengaluru-3-to-5-years-090425925134"
+    "experience": "3-5 Yrs",
+    "salary": "Not disclosed",
+    "description": "Description not found",
+    "link": "https://www.naukri.com/job-listings-offshore-data-analyst-ntt-data-information-processing-services-private-l-imited-bengaluru-3-to-5-years-090425925134",
+    "posted_date": "Date not found"
   },
   {
     "title": "Title not found",
     "company": "Company not found",
     "location": "Bengaluru",
-    "link": "Link not found"
+    "experience": "3-5 Yrs",
+    "salary": "Not disclosed",
+    "description": "Description not found",
+    "link": "Link not found",
+    "posted_date": "Date not found"
   },
   {
     "title": "Data Analyst L3",
     "company": "Company not found",
     "location": "Bengaluru",
-    "link": "https://www.naukri.com/job-listings-data-analyst-l3-wipro-limited-bengaluru-1-to-3-years-090425922238"
+    "experience": "1-3 Yrs",
+    "salary": "Not disclosed",
+    "description": "Description not found",
+    "link": "https://www.naukri.com/job-listings-data-analyst-l3-wipro-limited-bengaluru-1-to-3-years-090425922238",
+    "posted_date": "Date not found"
   },
   {
     "title": "Data Analyst L3",
     "company": "Company not found",
     "location": "Bengaluru",
-    "link": "https://www.naukri.com/job-listings-data-analyst-l3-wipro-limited-bengaluru-1-to-3-years-090425922238"
+    "experience": "1-3 Yrs",
+    "salary": "Not disclosed",
+    "description": "Description not found",
+    "link": "https://www.naukri.com/job-listings-data-analyst-l3-wipro-limited-bengaluru-1-to-3-years-090425922238",
+    "posted_date": "Date not found"
+  },
+  {
+    "title": "Title not found",
+    "company": "Company not found",
+    "location": "Bengaluru",
+    "experience": "1-3 Yrs",
+    "salary": "Not disclosed",
+    "description": "Description not found",
+    "link": "Link not found",
+    "posted_date": "Date not found"
+  },
+  {
+    "title": "Title not found",
+    "company": "Company not found",
+    "location": "Bengaluru",
+    "experience": "Experience not found",
+    "salary": "Salary not found",
+    "description": "Description not found",
+    "link": "Link not found",
+    "posted_date": "Date not found"
+  },
+  {
+    "title": "Title not found",
+    "company": "Company not found",
+    "location": "Bengaluru",
+    "experience": "Experience not found",
+    "salary": "Salary not found",
+    "description": "Description not found",
+    "link": "Link not found",
+    "posted_date": "Date not found"
+  },
+  {
+    "title": "Title not found",
+    "company": "Company not found",
+    "location": "Bengaluru",
+    "experience": "Experience not found",
+    "salary": "Salary not found",
+    "description": "Description not found",
+    "link": "Link not found",
+    "posted_date": "Date not found"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Company not found",
+    "location": "Mumbai",
+    "experience": "2-3 Yrs",
+    "salary": "Not disclosed",
+    "description": "Description not found",
+    "link": "https://www.naukri.com/job-listings-data-analyst-paramatrix-technologies-pvt-ltd-mumbai-2-to-3-years-110425500790",
+    "posted_date": "Date not found"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Company not found",
+    "location": "Mumbai",
+    "experience": "2-3 Yrs",
+    "salary": "Not disclosed",
+    "description": "Description not found",
+    "link": "https://www.naukri.com/job-listings-data-analyst-paramatrix-technologies-pvt-ltd-mumbai-2-to-3-years-110425500790",
+    "posted_date": "Date not found"
+  },
+  {
+    "title": "Title not found",
+    "company": "Company not found",
+    "location": "Mumbai",
+    "experience": "2-3 Yrs",
+    "salary": "Not disclosed",
+    "description": "Description not found",
+    "link": "Link not found",
+    "posted_date": "Date not found"
+  },
+  {
+    "title": "Client Data Analyst",
+    "company": "Company not found",
+    "location": "Remote",
+    "experience": "3-8 Yrs",
+    "salary": "Not disclosed",
+    "description": "Description not found",
+    "link": "https://www.naukri.com/job-listings-client-data-analyst-south-star-software-navi-mumbai-3-to-8-years-030225014653",
+    "posted_date": "Date not found"
+  },
+  {
+    "title": "Client Data Analyst",
+    "company": "Company not found",
+    "location": "Remote",
+    "experience": "3-8 Yrs",
+    "salary": "Not disclosed",
+    "description": "Description not found",
+    "link": "https://www.naukri.com/job-listings-client-data-analyst-south-star-software-navi-mumbai-3-to-8-years-030225014653",
+    "posted_date": "Date not found"
+  },
+  {
+    "title": "Title not found",
+    "company": "Company not found",
+    "location": "Remote",
+    "experience": "3-8 Yrs",
+    "salary": "Not disclosed",
+    "description": "Description not found",
+    "link": "Link not found",
+    "posted_date": "Date not found"
   }
 ]
