@@ -1,0 +1,22 @@
+2025-04-13 17:41:45,314 - INFO - Starting job search for all jobs in any location from the past month
+2025-04-13 17:41:45,332 - INFO - ====== WebDriver manager ======
+2025-04-13 17:41:49,064 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-13 17:41:49,422 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-13 17:41:49,636 - INFO - Driver [C:\Users\lenovo\.wdm\drivers\chromedriver\win64\109.0.5414.74\chromedriver.exe] found in cache
+2025-04-13 17:41:51,561 - INFO - Chrome driver started successfully
+2025-04-13 17:41:56,655 - INFO - Accessing URL: https://www.naukri.com/jobs
+2025-04-13 17:41:58,168 - INFO - Page loaded successfully
+2025-04-13 17:41:59,667 - INFO - Attempting to apply date filter: month
+2025-04-13 17:42:01,884 - WARNING - Could not find date filter element, taking a screenshot for diagnosis
+2025-04-13 17:42:02,431 - WARNING - Could not apply month filter, continuing with default results
+2025-04-13 17:42:02,432 - INFO - Scraping page 1 of 10
+2025-04-13 17:42:02,952 - INFO - Screenshot saved to naukri_page_1.png
+2025-04-13 17:42:03,239 - INFO - Found 0 potential job listings on this page
+2025-04-13 17:42:03,239 - INFO - Extracted 0 jobs from page 1
+2025-04-13 17:42:10,099 - INFO - Next page button not found or disabled - reached the end of pagination
+2025-04-13 17:42:10,100 - INFO - No more pages available
+2025-04-13 17:42:10,101 - INFO - Total jobs scraped: 0 from 0 pages
+2025-04-13 17:42:12,798 - INFO - Chrome driver closed
+2025-04-13 17:42:12,799 - WARNING - No job listings to save
+2025-04-13 17:42:12,800 - INFO - Scraping complete! Collected 0 job listings.
+2025-04-13 17:42:12,802 - INFO - Check the 'data' directory for the output files.
